@@ -31,7 +31,7 @@ We will use the Ubuntu 22.10
 
 ## 2. Download and install VirtualBox
 
-### 1. Download VirtualBox
+### 1. Download VirtualBox 
 
 Download the latest version of VirtualBox from [here](https://www.virtualbox.org/wiki/Downloads).
 
