@@ -114,19 +114,16 @@ Once done, click **Finish** .
 
 9. Dark or Light theme
 
-   ![complete installation](images/complete-installation.png)
+   ![theme](images/theme.png)
 
 10. Now sit back and enjoy the slideshow as Ubuntu installs in the background! :blush:
-
-![theme](images/theme.png)
+    ![complete installation](images/complete-installation.png)
 
 11. Once the installation has completed, you will be prompted to restart your machine. Click **Restart Now**.
-
-![restart vm](images/restart-now.png)
+    ![restart vm](images/restart-now.png)
 
 12. After reboot, don’t forget to eject the ISO image from the virtual disk then pressing Enter.
-
-![restart vm](images/reboot.png)
+    ![restart vm](images/reboot.png)
 
 ## 5. Installing Guest Additions
 
