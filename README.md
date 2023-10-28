@@ -48,7 +48,7 @@ Once you have completed the installation, run the `.exe` file and install Virtua
 
    ![create new](images/create-new.png)
 
-2. Provide name, for example, Ubuntu 23.10. The type would be set to Linux automatically.
+2. Provide name, for example, Ubuntu 23.10 The type would be set to Linux automatically.
 
    ![vm name](images/vm-name.png)
 
